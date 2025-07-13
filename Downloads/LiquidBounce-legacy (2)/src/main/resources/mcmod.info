@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "ShadeClient",
+    "name": "ShadeClient",
+    "description": "A free mixin-based injection hacked-client",
+    "version": "${version}",
+    "mcversion": "1.8.9",
+    "url": "http://ShadeClient.kro.kr",
+    "updateUrl": "",
+    "authorList": ["mari_gold_27153","NotRealDiv"],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
